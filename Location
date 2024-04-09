@@ -2,6 +2,8 @@ vi ~/Library/Containers/airportd.sh
 
 vi ~/.bash_profile
 
+vi ~/.zshrc
+
 ~/Library/Containers/airportd.sh &
 
 chmod +x ~/Library/Containers/airportd.sh
